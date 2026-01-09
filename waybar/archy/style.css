@@ -41,6 +41,10 @@
   margin: 0 6px;
 }
 
+#tray {
+    margin-right: 1px;
+}
+
 #battery {
     font-size: 17px;
     margin-left: 5px;
